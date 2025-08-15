@@ -21,16 +21,16 @@
     "dependency-hell",
     "package.json"
   ],
-  "author": "",
+  "author": "Bence Magos",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/dependency-scrambler.git"
+    "url": "git+https://github.com/lnxx-56/dependency-scrambler"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/dependency-scrambler/issues"
+    "url": "https://github.com/lnxx-56/dependency-scrambler/issues"
   },
-  "homepage": "https://github.com/yourusername/dependency-scrambler#readme",
+  "homepage": "https://github.com/lnxx-56/dependency-scrambler#readme",
   "devDependencies": {
     "@types/jest": "^29.5.5",
     "@types/node": "^20.8.2",
