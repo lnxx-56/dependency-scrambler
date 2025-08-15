@@ -1,0 +1,26 @@
+# Source files
+src/
+# Test files
+**/__tests__/
+**/*.test.ts
+**/*.spec.ts
+# Config files
+tsconfig.json
+jest.config.js
+.eslintrc.js
+# Coverage reports
+coverage/
+# Editor files
+.vscode/
+.idea/
+# Git files
+.git/
+.github/
+.gitignore
+# Logs
+*.log
+npm-debug.log*
+# Other files
+.DS_Store
+.env
+.env.*
